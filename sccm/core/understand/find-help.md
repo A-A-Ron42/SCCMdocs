@@ -1,7 +1,7 @@
 ---
-title: "Find help"
-titleSuffix: "Configuration Manager"
-description: "Find resources for additional information about System Center Configuration Manager."
+title: Find help
+titleSuffix: Configuration Manager
+description: Find resources for additional information about System Center Configuration Manager.
 ms.custom: na
 ms.date: 12/22/2017
 ms.prod: configuration-manager
