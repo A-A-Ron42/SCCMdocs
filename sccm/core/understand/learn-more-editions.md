@@ -2,7 +2,7 @@
 title: "Learn More about licensing and branches"
 titleSuffix: "Configuration Manager"
 description: "Use this topic to learn about the licensing requirements for the installation options available with the October 2016 release of System Center Configuration Manager, which include the Current Branch version 1606, Long-Term Servicing Branch (LTSB), and Evaluation installation of the Current Branch."
-ms.date: 12/05/2017
+ms.date: 05/12/2018
 ms.prod: configuration-manager
 ms.technology: configmgr-other
 ms.topic: conceptual
